@@ -8,4 +8,4 @@ def substr_count(string, substring):
     return concurrences
 
 if __name__ == "__main__":
-    print substr_count("dininininta", "i")
+    print substr_count("bootcamp", "o")
