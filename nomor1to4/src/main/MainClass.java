@@ -38,7 +38,7 @@ public class MainClass {
         
         // Nomor 3
         Nomor3 nomor3 = new Nomor3();
-        nomor3.segitigaAsli(7);
+        nomor3.segitigaAsli(9);
         
         System.out.println();
         
